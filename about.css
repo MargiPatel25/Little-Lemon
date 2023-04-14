@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(188, 217, 242);
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: black;
+    text-decoration-line: underline;
+
+}
+
+video {
+    align-items: center;
+    margin-left: 50px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+}
+
+footer p {
+    text-align: right;
+}
